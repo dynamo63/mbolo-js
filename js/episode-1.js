@@ -1,0 +1,1 @@
+console.log('Mbolo JS') //Affiche Mbolo JS a la console
